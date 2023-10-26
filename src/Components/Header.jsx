@@ -11,6 +11,7 @@ const UpperBar = styled.div`
 const Headerimage = styled.div`
     display: flex;
     align-items: center;
+    margin-top: 5px;
     margin-left: 100px;
 `
 
